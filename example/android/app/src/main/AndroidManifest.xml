@@ -1,9 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="space.starhelix.example.youtube">
+    package="np.com.sarbagyastha.youtube_player_iframe_example">
     <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="Youtube Plyr IFrame Demo"
+        android:label="youtube_player_iframe_example"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
